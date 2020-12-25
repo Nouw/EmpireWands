@@ -1,0 +1,10 @@
+name: EmpireWand
+version: 1.0.0
+author: Nouw
+main: net.nouw.empirewand.EmpireWand
+api-version: 1.13
+commands:
+  wand:
+    description: Gives a player an EmpireWand
+    usage: /wand
+    permission: empirewand.getwand
